@@ -44,9 +44,9 @@
 
 
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=mohamedtalhaouii&count_private=true&theme=dark&border_radius=20" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=mohamedtalhaouii&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=20" alt="readme stats"/>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=t4lhawi&count_private=true&theme=dark&border_radius=20" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=t4lhawi&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=20" alt="readme stats"/>
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mohamedtalhaouii&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=20&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=t4lhawi&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=20&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
   <img width=400 align="center" src="https://leetcard.jacoblin.cool/mohamedtalhaouii?border=1&border_radius=20&theme=dark" alt="Mohamed Talhaoui LeetCode"/>
 </div>
