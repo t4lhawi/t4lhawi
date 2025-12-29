@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedtalhaouii&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedtalhaouii" /> </p>
 
-- 👨🏻‍💻 | **Computer Engineering** (Embedded Systems & Networks) **Student at @ENSAO**
+- 👨🏻‍💻 | **Computer Engineering Student at @ENSAO**
  
 - 🤖 | Exploring **AI, IoT, Intelligent Systems, Robotics, Embedded Technologies & Computer Networks**
 
