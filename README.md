@@ -29,7 +29,7 @@
 
 <h3 align="center">Languages and Tools :</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,c,cpp,java,py,bash,linux,ubuntu,arduino,raspberrypi,vscode,github,git,md,mysql,latex,matlab&perline=10&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,jquery,c,cpp,java,py,django,php,laravel,vim,opencv,bash,linux,ubuntu,arduino,raspberrypi,vscode,notion,github,git,md,mysql,latex,matlab&perline=7&theme=light" />
 </div>
 
 
