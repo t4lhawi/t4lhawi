@@ -5,7 +5,7 @@
 
 - 👨🏻‍💻 | **Embedded Systems Engineering Student at @ENSAO**
  
-- 🤖 | Exploring **AI | Computer Vision | Embedded & Intelligent Systems | IoT | Robotics | Networks | Systems Security**
+- 🤖 | Exploring **Embedded & Intelligent Systems | AI & Computer Vision | Robotics | IoT & Computer Networks | Systems & Cybersecurity**
 
 - 🫱🏻‍🫲🏻 | Let's Connect on LinkedIn : <a href="https://linkedin.com/in/mohamedtalhaoui" target="_blank">@mohamedtalhaoui</a>
 
