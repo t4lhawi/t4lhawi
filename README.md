@@ -17,10 +17,21 @@
 
 <h3 align="center">Connect with me :</h3>
 <p align="center">
-<a href="https://twitter.com/taalhaoui" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="taalhaoui" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohamedtalhaoui" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="mohamedtalhaoui" height="30" width="40" /></a>
-<a href="https://fb.com/mohamedtalhaouiii" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamedtalhaouiii" height="30" width="40" /></a>
-<a href="https://instagram.com/mohamedtalhaouii" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="mohamedtalhaouii" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohamedtalhaoui" target="_blank">
+    <img align="center" src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=35&reverseBackground=true"/>
+</a>
+ 
+<a href="https://instagram.com/t4lhawi" target="_blank">
+    <img align="center" src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=35&reverseBackground=true"/>
+</a>
+
+<a href="https://x.com/t4lhawi" target="_blank">
+    <img align="center" src="https://www.readmecodegen.com/api/social-icon?name=x&size=35&reverseBackground=true"/>
+</a>
+
+<a href="https://fb.com/mohamedtalhaouiii" target="_blank">
+    <img align="center" src="https://www.readmecodegen.com/api/social-icon?name=facebook&size=35&reverseBackground=true"/>
+</a>
 </p>
 
 
