@@ -25,12 +25,8 @@
     <img align="center" src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=35&reverseBackground=true"/>
 </a>
 
-<a href="https://x.com/t4lhawi" target="_blank">
-    <img align="center" src="https://www.readmecodegen.com/api/social-icon?name=x&size=35&reverseBackground=true"/>
-</a>
-
-<a href="https://fb.com/mohamedtalhaouiii" target="_blank">
-    <img align="center" src="https://www.readmecodegen.com/api/social-icon?name=facebook&size=35&reverseBackground=true"/>
+<a href="https://huggingface.co/t4lhawi" target="_blank">
+    <img align="center" src="https://www.readmecodegen.com/api/social-icon?name=huggingface&size=35&reverseBackground=true"/>
 </a>
 </p>
 
