@@ -25,6 +25,10 @@
     <img align="center" src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=35&reverseBackground=true"/>
 </a>
 
+<a href="https://youtube.com/@t4lhawi" target="_blank">
+    <img align="center" src="https://www.readmecodegen.com/api/social-icon?name=youtube&size=35&reverseBackground=true"/>
+</a>
+
 <a href="https://huggingface.co/t4lhawi" target="_blank">
     <img align="center" src="https://www.readmecodegen.com/api/social-icon?name=huggingface&size=35&reverseBackground=true"/>
 </a>
