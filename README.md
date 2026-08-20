@@ -49,8 +49,14 @@
 
 <h3 align="center">Support :</h3>
 <p align="center">
-<a href="https://ko-fi.com/mohamedtalhaoui"> <img align="centre" src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' height="50" width="210" alt="mohamedtalhaoui"/></a>
-<!-- <a href="https://patreon.com/mohamedtalhaouii"> <img align="centre" src="https://github.com/mohamedtalhaouii/mohamedtalhaouii/assets/144726758/19076b0e-4dda-4e6b-8ea5-d247b554f6f7" height="50" width="210" alt="mohamedtalhaoui"/></a></p><br> -->
+<a href="https://patreon.com/t4lhawi">
+ <img align="center" src="https://www.readmecodegen.com/api/social-icon?name=patreon&size=60&reverseBackground=true"/>
+</a>
+
+ <a href="https://buymeacoffee.com/t4lhawi">
+ <img align="center" src="https://www.readmecodegen.com/api/social-icon?name=buymeacoffee&size=60&reverseBackground=true"/>
+ </a>
+</p>
 
 
 <h1>
