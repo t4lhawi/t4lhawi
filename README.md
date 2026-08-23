@@ -40,7 +40,7 @@
 
 <h3 align="center">Languages and Tools :</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,jquery,c,cpp,java,py,django,php,fastapi,sqlite,postgresql,vim,opencv,bash,linux,ubuntu,arduino,raspberrypi,vscode,github,git,md,mysql,latex,matlab,spring&perline=&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,jquery,c,cpp,java,py,django,php,fastapi,sqlite,postgresql,opencv,npm,bash,linux,ubuntu,arduino,raspberrypi,vscode,github,git,md,mysql,latex,matlab,spring&perline=10&theme=light" />
 </div>
 
 
